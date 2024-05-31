@@ -2,9 +2,9 @@
 #include <iostream>
 
 using namespace std;
-int string(){
+int main(){
     char name[] = "Brent";
-
+    string surname = "Val";
     cout << name;
     return 0;
 };
